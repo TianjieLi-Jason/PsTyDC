@@ -108,11 +108,11 @@ BOND CE   NZ
 BOND CE   HE2 
 BOND CE   HE3 
 BOND C    O
-BOND C  +N                               ! added manually for the connectivity of residues
-DOUBLE   O  C                            !
-IMPR N -C CA HN  C CA +N O               !
-IMPR C4'    C4     NZ     H4'1           !
-CMAP -C  N  CA  C   N  CA  C  +N         !
+BOND C  +N                               ! manually added for residue connection
+DOUBLE   O  C                            ! manually added for residue connection
+IMPR N -C CA HN  C CA +N O               ! manually added for residue connection
+IMPR C4'    C4     NZ     H4'1           ! manually added for residue connection
+CMAP -C  N  CA  C   N  CA  C  +N         ! manually added for residue connection
   
 
 END
