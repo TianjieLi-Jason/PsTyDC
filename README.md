@@ -1,1 +1,1 @@
-# MD-simulations-for-CrTDC
+# Parameterization files
