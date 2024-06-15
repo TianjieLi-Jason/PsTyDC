@@ -1,4 +1,4 @@
-# Parameterization files
+# Parameterization file list
 
 ## Parameters and structure for LLP
 - 'LLP/LLP-opt.str': optimized paramters for LLP
