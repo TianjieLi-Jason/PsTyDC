@@ -52,10 +52,10 @@ GROUP
 ATOM CG     CG321  -0.189 !    2.182
 ATOM HG2    HGA2    0.090 !    0.000
 ATOM HG3    HGA2    0.090 !    0.000
-! The conjugated lysine 321 atom slightly adjusted in atomic partial charge to maintain the neutrality of the overall molecule
+! The conjugated lysine 321 atom slightly adjusted in its atomic partial charge to maintain the overall neutrality of the molecule
 GROUP
 ATOM N    	NH1    	-0.47 !    originally NG321  -1.077  (penalty=6.901)
-ATOM H    	H   	 0.31 !    originally HGPAM2  0.396  (penalty=2.558)
+ATOM H    	H   	   0.31 !    originally HGPAM2  0.396  (penalty=2.558)
 ATOM CA   	CT1      0.07 !    originally CG311   0.326  (penalty=6.441)
 ATOM HA   	HB1      0.09 !    originally HGA1    0.090  (penalty=0.000)
 GROUP              
